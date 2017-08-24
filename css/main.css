@@ -19,7 +19,7 @@ html {
 	letter-spacing: -0.02em;
 	line-height: 0.90em;
 	padding: 80px 85px 0 85px;
-    background-image: url("/img/bg4.JPG");
+    background-image: url("../img/bg4.JPG");
     min-height: 100%;
     height: 80vh;
     
@@ -27,13 +27,13 @@ html {
 }
 
 .bgimg-2 {
-    background-image: url("/img/bg1.JPG");
+    background-image: url("../img/bg1.JPG");
     min-height: 100%; 
     height: 50vh;
 }
 
 .bgimg-3 {
-    background-image: url("/img/bg9.JPG");
+    background-image: url("../img/bg9.JPG");
     min-height: 100%; 
     height: 50vh;
 }
@@ -214,7 +214,7 @@ h2 {
 
 .work {
     
-    background-image: url("/img/bg8.JPG");
+    background-image: url("../img/bg8.JPG");
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
